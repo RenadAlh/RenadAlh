@@ -157,7 +157,7 @@
   <img src="https://skillicons.dev/icons?i=gmail" height="55" alt="Email" style="border: none; text-decoration: none;" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/renad-alharthi-108346274/" target="_blank" style="text-decoration: none; border-bottom: none;">
+<a href="https://www.linkedin.com/in/renadalharthi" target="_blank" style="text-decoration: none; border-bottom: none;">
   <img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn" style="border: none; text-decoration: none;" />
 </a>
 
