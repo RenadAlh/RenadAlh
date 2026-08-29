@@ -49,17 +49,11 @@
 <a href="https://powerbi.microsoft.com" target="_blank"><img src="assets/icons/powerbi.svg" height="55" alt="Power BI" /></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="assets/icons/excel.svg" height="55" alt="Excel" /></a>
 
+### Cloud & Deployment
+<a href="https://azure.microsoft.com" target="_blank"><img src="https://skillicons.dev/icons?i=azure" height="55" alt="Microsoft Azure" /></a>  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="55" alt="Docker" /></a>  <a href="https://vercel.com" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="55" alt="Vercel" /></a>
+
 ### Development Tools & Platforms
-<a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="55" alt="Git" /></a>
-<a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub" /></a>
-<a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code" /></a>
-<a href="https://vercel.com" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="55" alt="Vercel" /></a>
-<a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="55" alt="React" /></a>
-<a href="https://vite.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vite" height="55" alt="Vite" /></a>
-<a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" height="55" alt="FastAPI" /></a>
-<a href="https://jupyter.org" target="_blank"><img src="assets/icons/jupyter.svg" height="55" alt="Jupyter" /></a>
-<a href="https://colab.research.google.com" target="_blank"><img src="assets/icons/colab.svg" height="55" alt="Google Colab" /></a>
-<a href="https://jwt.io" target="_blank"><img src="assets/icons/jwt.svg" height="55" alt="JWT" /></a>
+<a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="55" alt="Git" /></a>  <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub" /></a>  <a href="https://cursor.com" target="_blank"><img src="assets/icons/cursor.svg" height="55" alt="Cursor" /></a>  <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code" /></a>  <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="55" alt="React" /></a>  <a href="https://vite.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vite" height="55" alt="Vite" /></a>  <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" height="55" alt="FastAPI" /></a>  <a href="https://jupyter.org" target="_blank"><img src="assets/icons/jupyter.svg" height="55" alt="Jupyter" /></a>  <a href="https://colab.research.google.com" target="_blank"><img src="assets/icons/colab.svg" height="55" alt="Google Colab" /></a>  <a href="https://jwt.io" target="_blank"><img src="assets/icons/jwt.svg" height="55" alt="JWT" /></a>
 
 </div>
 
@@ -73,7 +67,14 @@
   <img src="assets/FeaturedProjects.svg" width="850" alt="Featured Projects">
 </p>
 
-### <a href="https://github.com/Yaqidh-Project/Yaqidh" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="20" style="vertical-align: middle;" /></a> **Yaqidh - Smart Vision System for Safer Childhood Environments**
+<p align="center">
+  <a href="https://github.com/Yaqidh-Project/Yaqidh" target="_blank">
+    <img src="assets\project-logos\Yaqidh.svg" height="80" alt="Yaqidh" />
+  </a>
+</p>
+
+<h3 align="center">Smart Vision System for Safer Childhood Environments</h3>
+
 
 <p align="center">
   AI-powered child safety monitoring system using YOLOv8s ONNX models to detect falls and physical violence, send real-time alerts, and generate incident reports and analytics for caregivers.
@@ -91,25 +92,46 @@
 
 <br>
 
-### <a href="https://github.com/AliyahAlabdali/BTCS-Project" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="20" style="vertical-align: middle;" /></a> **BTCS - Brain Tumor Classification System**
-
 <p align="center">
-  Privacy-first AI web application that classifies brain tumors from MRI scans directly in the browser using a YOLOv8 model with ONNX Runtime, providing real-time predictions and confidence scores.
-</p>
-
-<p align="center">
-  <code>React</code> &bull; <code>Vite</code> &bull; <code>Tailwind CSS</code> &bull; <code>YOLOv8</code> &bull; <code>ONNX Runtime</code> &bull; <code>JavaScript</code>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AliyahAlabdali/BTCS-Project" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Repository-F9B2B6?style=for-the-badge&logo=github&logoColor=2A203E" alt="View Repository" />
+  <a href="https://github.com/RenadAlh/TumorSight" target="_blank">
+    <img src="assets/project-logos/TumorSight.svg" height="70" alt="TumorSight" />
   </a>
 </p>
 
+<h3 align="center">Brain Tumor MRI Classification System</h3>
+
+<p align="center">
+
+A privacy-focused, responsive AI system for brain MRI classification, combining a fine-tuned VGG16 model with 97% recall, confidence-driven insights, and an interactive 3D brain experience.
+
+
+</p>
+
+<p align="center">
+
+<code>Python</code> • <code>TensorFlow</code> • <code>VGG16</code> • <code>FastAPI</code> • <code>React</code> • <code>Vite</code> • <code>Tailwind CSS</code> • <code>Azure</code> • <code>Docker</code>
+
+</p>
+
+<p align="center">
+
+  <a href="https://github.com/RenadAlh/TumorSight" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Repository-F9B2B6?style=for-the-badge&logo=github&logoColor=2A203E" alt="View Repository" />
+  </a>
+
+</p>
+
+
 <br>
 
-### <a href="https://github.com/RenadAlh/WearScanner" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="20" style="vertical-align: middle;" /></a> **WearScanner - Fashion Item Classifier & Styler**
+<p align="center">
+  <a href="https://github.com/RenadAlh/WearScanner" target="_blank">
+    <img src="assets/project-logos/WearScanner.svg" height="120" alt="WearScanner" />
+  </a>
+</p>
+
+<h3 align="center">Fashion Item Classifier & Styler</h3>
+
 
 <p align="center">
   CNN-based fashion image classifier trained on Fashion-MNIST that predicts clothing categories and generates styling recommendations, occasion suggestions, and accessory ideas.
