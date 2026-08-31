@@ -148,6 +148,36 @@ A privacy-focused, responsive AI system for brain MRI classification, combining 
 </p>
 
 <br>
+<p align="center">
+  <a href="https://github.com/RenadAlh/LinkedInRecruitmentAnalysis" target="_blank">
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="90" alt="LinkedIn Recruitment Analysis" />
+  </a>
+</p>
+
+<h3 align="center">LinkedIn Recruitment Analysis</h3>
+
+<p align="center">
+
+A data-driven analysis of LinkedIn recruitment trends, uncovering relationships between job-post characteristics and applicant engagement to identify insights for more effective recruitment strategies.
+
+</p>
+
+<p align="center">
+
+<code>Python</code> • <code>Pandas</code> • <code>NumPy</code> • <code>Matplotlib</code> • <code>Data Analysis</code> • <code>Data Visualization</code>
+
+</p>
+
+<p align="center">
+
+  <a href="https://github.com/RenadAlh/LinkedInRecruitmentAnalysis" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Repository-F9B2B6?style=for-the-badge&logo=github&logoColor=2A203E" alt="View Repository" />
+  </a>
+
+</p>
+
+
+<br>
 
 <p align="center">
     These are a few of my featured projects. Explore my GitHub for more AI projects and technical work!
