@@ -93,6 +93,38 @@
 <br>
 
 <p align="center">
+  <a href="https://github.com/Jood-Labs/Jood" target="_blank">
+    <img src="assets/project-logos/Jood.svg" height="60" alt="Jood" />
+  </a>
+</p>
+
+<h3 align="center">AI-Powered Ingredient-to-Recipe System</h3>
+
+<p align="center">
+  Jood turns a photo of your available ingredients into practical meal ideas tailored to your preferences, time, and servings, prioritizing ingredients before they go to waste and adding all missing items to your shopping cart in one click.
+</p>
+
+<p align="center">
+  <code>Python</code> •
+  <code>FastAPI</code> •
+  <code>DeepSeek</code> •
+  <code>VLM & LLM</code> •
+  <code>Supabase</code> •
+  <code>React</code> •
+  <code>Vite</code> •
+  <code>Vercel</code> •
+  <code>Render</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jood-Labs/Jood" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Repository-F9B2B6?style=for-the-badge&logo=github&logoColor=2A203E" alt="View Repository" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
   <a href="https://github.com/RenadAlh/TumorSight" target="_blank">
     <img src="assets/project-logos/TumorSight.svg" height="70" alt="TumorSight" />
   </a>
@@ -119,32 +151,6 @@ A privacy-focused, responsive AI system for brain MRI classification, combining 
     <img src="https://img.shields.io/badge/View%20Repository-F9B2B6?style=for-the-badge&logo=github&logoColor=2A203E" alt="View Repository" />
   </a>
 
-</p>
-
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/RenadAlh/WearScanner" target="_blank">
-    <img src="assets/project-logos/WearScanner.svg" height="120" alt="WearScanner" />
-  </a>
-</p>
-
-<h3 align="center">Fashion Item Classifier & Styler</h3>
-
-
-<p align="center">
-  CNN-based fashion image classifier trained on Fashion-MNIST that predicts clothing categories and generates styling recommendations, occasion suggestions, and accessory ideas.
-</p>
-
-<p align="center">
-  <code>Python</code> &bull; <code>TensorFlow</code> &bull; <code>CNN</code> &bull; <code>Deep Learning</code>
-</p>
-
-<p align="center">
-  <a href="https://github.com/RenadAlh/WearScanner" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Repository-F9B2B6?style=for-the-badge&logo=github&logoColor=2A203E" alt="View Repository" />
-  </a>
 </p>
 
 <br>
