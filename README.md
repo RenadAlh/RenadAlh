@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="https://github.com/Yaqidh-Project/Yaqidh" target="_blank">
-    <img src="assets/project-logos/Yaqidh.svg" height="80" alt="Yaqidh" />
+    <img src="assets/project-logos/Yaqidh.svg" height="100" alt="Yaqidh" />
   </a>
 </p>
 
@@ -91,7 +91,7 @@
 
 <p align="center">
   <a href="https://github.com/Jood-Labs/Jood" target="_blank">
-    <img src="assets/project-logos/Jood.svg" height="70" alt="Jood" />
+    <img src="assets/project-logos/Jood.svg" height="77" alt="Jood" />
   </a>
 </p>
 
@@ -122,7 +122,7 @@
 
 <p align="center">
   <a href="https://github.com/RenadAlh/TumorSight" target="_blank">
-    <img src="assets/project-logos/TumorSight.svg" height="70" alt="TumorSight" />
+    <img src="assets/project-logos/TumorSight.svg" height="80" alt="TumorSight" />
   </a>
 </p>
 
