@@ -91,18 +91,26 @@
 
 <p align="center">
   <a href="https://github.com/Jood-Labs/Jood" target="_blank">
-    <img src="assets/project-logos/Jood.svg" height="60" alt="Jood" />
+    <img src="assets/project-logos/Jood.svg" height="70" alt="Jood" />
   </a>
 </p>
 
-<h3 align="center">Smart Recipe Recommendation System for Reducing Food Waste</h3>
+<h3 align="center">AI-Powered Ingredient-to-Recipe System</h3>
 
 <p align="center">
-  AI-powered recipe platform that reduces food waste by detecting ingredients from a fridge photo using a vision-language model with adaptive image tiling, generating personalized recipes from what's already available, and matching only the missing ingredients to a shopping cart.
+  Jood turns a photo of your available ingredients into practical meal ideas tailored to your preferences, time, and servings, prioritizing ingredients before they go to waste and adding all missing items to your shopping cart in one click.
 </p>
 
 <p align="center">
-  <code>Python</code> &bull; <code>FastAPI</code> &bull; <code>Supabase</code> &bull; <code>DeepSeek</code> &bull; <code>Vision-Language Models</code> &bull; <code>Pillow</code> &bull; <code>JWT</code> &bull; <code>Vercel</code>
+  <code>Python</code> •
+  <code>FastAPI</code> •
+  <code>DeepSeek</code> •
+  <code>VLM & LLM</code> •
+  <code>Supabase</code> •
+  <code>React</code> •
+  <code>Vite</code> •
+  <code>Vercel</code> •
+  <code>Render</code>
 </p>
 
 <p align="center">
