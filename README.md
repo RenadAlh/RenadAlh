@@ -69,12 +69,11 @@
 
 <p align="center">
   <a href="https://github.com/Yaqidh-Project/Yaqidh" target="_blank">
-    <img src="assets\project-logos\Yaqidh.svg" height="80" alt="Yaqidh" />
+    <img src="assets/project-logos/Yaqidh.svg" height="80" alt="Yaqidh" />
   </a>
 </p>
 
 <h3 align="center">Smart Vision System for Safer Childhood Environments</h3>
-
 
 <p align="center">
   AI-powered child safety monitoring system using YOLOv8s ONNX models to detect falls and physical violence, send real-time alerts, and generate incident reports and analytics for caregivers.
@@ -85,9 +84,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Yaqidh-Project/Yaqidh" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Repository-F9B2B6?style=for-the-badge&logo=github&logoColor=2A203E" alt="View Repository" />
-  </a>
+  <a href="https://github.com/Yaqidh-Project/Yaqidh" target="_blank"><img src="assets/badges/yaqidh-repo.svg" alt="View Repository" /></a>
 </p>
 
 <br>
@@ -98,28 +95,19 @@
   </a>
 </p>
 
-<h3 align="center">AI-Powered Ingredient-to-Recipe System</h3>
+<h3 align="center">Smart Recipe Recommendation System for Reducing Food Waste</h3>
 
 <p align="center">
-  Jood turns a photo of your available ingredients into practical meal ideas tailored to your preferences, time, and servings, prioritizing ingredients before they go to waste and adding all missing items to your shopping cart in one click.
+  AI-powered recipe platform that reduces food waste by detecting ingredients from a fridge photo using a vision-language model with adaptive image tiling, generating personalized recipes from what's already available, and matching only the missing ingredients to a shopping cart.
 </p>
 
 <p align="center">
-  <code>Python</code> •
-  <code>FastAPI</code> •
-  <code>DeepSeek</code> •
-  <code>VLM & LLM</code> •
-  <code>Supabase</code> •
-  <code>React</code> •
-  <code>Vite</code> •
-  <code>Vercel</code> •
-  <code>Render</code>
+  <code>Python</code> &bull; <code>FastAPI</code> &bull; <code>Supabase</code> &bull; <code>DeepSeek</code> &bull; <code>Vision-Language Models</code> &bull; <code>Pillow</code> &bull; <code>JWT</code> &bull; <code>Vercel</code>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Jood-Labs/Jood" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Repository-F9B2B6?style=for-the-badge&logo=github&logoColor=2A203E" alt="View Repository" />
-  </a>
+  <a href="https://github.com/Jood-Labs/Jood" target="_blank"><img src="assets/badges/jood-repo.svg" alt="View Repository" /></a>
+  <a href="https://jood-ai.vercel.app/" target="_blank"><img src="assets/badges/jood-app.svg" alt="Web App" /></a>
 </p>
 
 <br>
@@ -133,27 +121,20 @@
 <h3 align="center">Brain Tumor MRI Classification System</h3>
 
 <p align="center">
-
-A privacy-focused, responsive AI system for brain MRI classification, combining a fine-tuned VGG16 model with 97% recall, confidence-driven insights, and an interactive 3D brain experience.
-
-
+  A privacy-focused, responsive AI system for brain MRI classification, combining a fine-tuned VGG16 model with 97% recall, confidence-driven insights, and an interactive 3D brain experience.
 </p>
 
 <p align="center">
-
-<code>Python</code> • <code>TensorFlow</code> • <code>VGG16</code> • <code>FastAPI</code> • <code>React</code> • <code>Vite</code> • <code>Tailwind CSS</code> • <code>Azure</code> • <code>Docker</code>
-
+  <code>Python</code> &bull; <code>TensorFlow</code> &bull; <code>VGG16</code> &bull; <code>FastAPI</code> &bull; <code>React</code> &bull; <code>Vite</code> &bull; <code>Tailwind CSS</code> &bull; <code>Azure</code> &bull; <code>Docker</code>
 </p>
 
 <p align="center">
-
-  <a href="https://github.com/RenadAlh/TumorSight" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Repository-F9B2B6?style=for-the-badge&logo=github&logoColor=2A203E" alt="View Repository" />
-  </a>
-
+  <a href="https://github.com/RenadAlh/TumorSight" target="_blank"><img src="assets/badges/tumorsight-repo.svg" alt="View Repository" /></a>
+  <a href="https://tumorsight.vercel.app" target="_blank"><img src="assets/badges/tumorsight-app.svg" alt="Web App" /></a>
 </p>
 
 <br>
+
 <p align="center">
   <a href="https://github.com/RenadAlh/LinkedInRecruitmentAnalysis" target="_blank">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="90" alt="LinkedIn Recruitment Analysis" />
@@ -163,24 +144,18 @@ A privacy-focused, responsive AI system for brain MRI classification, combining 
 <h3 align="center">LinkedIn Recruitment Analysis</h3>
 
 <p align="center">
-
-A data-driven analysis of LinkedIn recruitment trends, uncovering relationships between job-post characteristics and applicant engagement to identify insights for more effective recruitment strategies.
-
+  A data-driven analysis of LinkedIn recruitment trends, uncovering relationships between job-post characteristics and applicant engagement to identify insights for more effective recruitment strategies.
 </p>
 
 <p align="center">
-
-<code>Python</code> • <code>Pandas</code> • <code>NumPy</code> • <code>Matplotlib</code> • <code>Data Analysis</code> • <code>Data Visualization</code>
-
+  <code>Python</code> &bull; <code>Pandas</code> &bull; <code>NumPy</code> &bull; <code>Matplotlib</code> &bull; <code>Data Analysis</code> &bull; <code>Data Visualization</code>
 </p>
 
 <p align="center">
-
-  <a href="https://github.com/RenadAlh/LinkedInRecruitmentAnalysis" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Repository-F9B2B6?style=for-the-badge&logo=github&logoColor=2A203E" alt="View Repository" />
-  </a>
-
+  <a href="https://github.com/RenadAlh/LinkedInRecruitmentAnalysis" target="_blank"><img src="assets/badges/linkedin-repo.svg" alt="View Repository" /></a>
 </p>
+
+<br>
 
 
 <br>
@@ -191,7 +166,7 @@ A data-driven analysis of LinkedIn recruitment trends, uncovering relationships 
 
 <p align="center">
   <a href="https://github.com/RenadAlh?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Explore_More_Projects-ffdadc?style=for-the-badge&logo=github&logoColor=2A203E" alt="Explore More Projects" />
+    <img src="https://img.shields.io/badge/Explore_More_Projects-F9B2B6?style=for-the-badge&logo=github&logoColor=2A203E" alt="Explore More Projects" />
   </a>
 </p>
 
