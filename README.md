@@ -145,7 +145,7 @@
 
 <p align="center">
   <a href="https://github.com/RenadAlh/LinkedInRecruitmentAnalysis" target="_blank">
-    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="90" alt="LinkedIn Recruitment Analysis" />
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="120" alt="LinkedIn Recruitment Analysis" />
   </a>
 </p>
 
